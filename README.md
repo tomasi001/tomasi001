@@ -1,5 +1,5 @@
 - 👋 Hello, my name is Thomas Shields.
 - 👀 I’m interested in learning about life and trying to solve problems
-- 🌱 I’m currently learning full-stack web development and software engineering
+- 🌱 I’m have recently completed my full-stack web development and software engineering bootcamp
 - 📫 How to reach me tom.shields001@gmail.com
 - Click [Here](https://tomasi001.github.io/) to view my Website: 
